@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brzo i Lokalno - Policies</title>
+  <style>
+    body { font-family: Arial, sans-serif; background:#f7f7fb; color:#1f1f28; margin:0; padding:40px 18px; }
+    .wrap { max-width:760px; margin:0 auto; background:#fff; border-radius:18px; padding:28px 22px; box-shadow:0 8px 28px rgba(0,0,0,.06); }
+    h1 { color:#5b2bbd; }
+    a { display:block; margin:14px 0; color:#5b2bbd; font-size:18px; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    p { color:#555; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Brzo i Lokalno</h1>
+    <p>Public policy pages for the app.</p>
+    <a href="./privacy-policy.html">Privacy Policy</a>
+    <a href="./terms.html">Terms of Use</a>
+    <a href="./delete-account.html">Delete Account</a>
+  </div>
+</body>
+</html>
